@@ -3,5 +3,5 @@ Django==2.2.7
 django-widget-tweaks==1.4.8
 Markdown==3.2.1
 MarkupSafe==1.1.1
-Pillow==7.1.1
+Pillow==8.1.1
 python-decouple==3.3
